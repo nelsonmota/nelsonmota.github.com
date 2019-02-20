@@ -1,0 +1,3047 @@
+.version.projectos /* version checker */
+{
+	color: #0000F8;
+	background-color: #2A5BC0;
+}
+
+.html
+{
+	background-color: #232121;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1300px;
+	min-height: 1039.9999999999995px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #232121;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -2px;
+	width: 0.01px;
+}
+
+#pu1080
+{
+	width: 0.01px;
+}
+
+#u1080
+{
+	z-index: 2;
+	width: 1300px;
+	margin-right: -10000px;
+}
+
+#u1082
+{
+	z-index: 3;
+	width: 1300px;
+	margin-bottom: -2px;
+	margin-right: -10000px;
+	margin-top: -2px;
+}
+
+#u1082_clip
+{
+	width: 1300px;
+	height: 1142px;
+}
+
+#u1082_img
+{
+	margin-right: -1px;
+	margin-bottom: -48px;
+}
+
+#u1088
+{
+	z-index: 10;
+	width: 115px;
+	margin-right: -10000px;
+	margin-top: 21px;
+	left: 578px;
+}
+
+#u1278
+{
+	z-index: 12;
+	width: 132px;
+	height: 44px;
+	margin-right: -10000px;
+	margin-top: 225px;
+	left: 436px;
+}
+
+#u1278:hover
+{
+	width: 132px;
+	height: 44px;
+	min-height: 0px;
+	margin: 225px -10000px 0px 0px;
+}
+
+#u1278.MuseLinkActive
+{
+	width: 132px;
+	height: 44px;
+	min-height: 0px;
+	margin: 225px -10000px 0px 0px;
+}
+
+#u1295
+{
+	z-index: 13;
+	width: 132px;
+	height: 44px;
+	margin-right: -10000px;
+	margin-top: 226px;
+	left: 855px;
+}
+
+#u1295:hover
+{
+	width: 132px;
+	height: 44px;
+	min-height: 0px;
+	margin: 226px -10000px 0px 0px;
+}
+
+#u1329
+{
+	z-index: 14;
+	width: 132px;
+	height: 44px;
+	margin-right: -10000px;
+	margin-top: 226px;
+	left: 270px;
+}
+
+#u1295.MuseLinkActive,#u1329:hover
+{
+	width: 132px;
+	height: 44px;
+	min-height: 0px;
+	margin: 226px -10000px 0px 0px;
+}
+
+#u1329:active
+{
+	width: 132px;
+	height: 44px;
+	min-height: 0px;
+	margin: 226px -10000px 0px 0px;
+}
+
+#u4497-4
+{
+	z-index: 15;
+	margin-right: -10000px;
+	margin-top: 157px;
+	left: 527px;
+}
+
+#u6055
+{
+	z-index: 19;
+	width: 132px;
+	height: 44px;
+	margin-right: -10000px;
+	margin-top: 226px;
+	left: 643px;
+}
+
+#u1329.MuseLinkActive,#u6055:hover
+{
+	width: 132px;
+	height: 44px;
+	min-height: 0px;
+	margin: 226px -10000px 0px 0px;
+}
+
+#u6055.MuseLinkActive
+{
+	width: 132px;
+	height: 44px;
+	min-height: 0px;
+	margin: 226px -10000px 0px 0px;
+}
+
+#u6289
+{
+	z-index: 20;
+	width: 5px;
+	margin-right: -10000px;
+	margin-top: 210px;
+	left: 402px;
+}
+
+#u6310
+{
+	z-index: 22;
+	width: 5px;
+	margin-right: -10000px;
+	margin-top: 210px;
+	left: 577px;
+}
+
+#u6313
+{
+	z-index: 24;
+	width: 5px;
+	margin-right: -10000px;
+	margin-top: 210px;
+	left: 789px;
+}
+
+#u6316
+{
+	z-index: 26;
+	width: 5px;
+	margin-right: -10000px;
+	margin-top: 210px;
+	left: 1009px;
+}
+
+#u6289_clip,#u6310_clip,#u6313_clip,#u6316_clip
+{
+	width: 5px;
+	height: 76px;
+}
+
+#u6289_img,#u6310_img,#u6313_img,#u6316_img
+{
+	margin-top: -10px;
+	margin-bottom: -10px;
+}
+
+#pamphletu6479
+{
+	z-index: 28;
+	width: 0.01px;
+	height: 78px;
+	padding-bottom: 44px;
+	margin-right: -10000px;
+	margin-top: 21px;
+	left: 1045px;
+}
+
+#u6484
+{
+	z-index: 29;
+	width: 103px;
+	margin-right: -10000px;
+	margin-top: 41px;
+	left: 56px;
+}
+
+#u6485
+{
+	width: 39px;
+	padding-bottom: 3px;
+}
+
+#u6485:hover
+{
+	width: 39px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6486
+{
+	z-index: 31;
+	width: 37px;
+	height: 37px;
+	margin-right: -10000px;
+}
+
+#u6485:hover #u6486
+{
+	width: 37px;
+	height: 37px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6485.PamphletThumbSelected #u6486
+{
+	width: 37px;
+	height: 37px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6489
+{
+	width: 39px;
+	padding-bottom: 4px;
+	left: 68px;
+}
+
+#u6485.PamphletThumbSelected,#u6489:hover
+{
+	width: 39px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6489.PamphletThumbSelected
+{
+	width: 39px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6490
+{
+	z-index: 33;
+	width: 35px;
+	height: 35px;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u6489:hover #u6490
+{
+	width: 35px;
+	height: 35px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+}
+
+#u6489.PamphletThumbSelected #u6490
+{
+	width: 35px;
+	height: 35px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+}
+
+#u6493popup
+{
+	z-index: 34;
+}
+
+#u6493
+{
+	width: 149px;
+	top: 86px;
+	left: 68px;
+}
+
+#u6496
+{
+	z-index: 35;
+	width: 147px;
+	height: 35px;
+	margin-right: -10000px;
+	margin-top: -86px;
+	left: -68px;
+}
+
+#u6497-4
+{
+	z-index: 36;
+	width: 137px;
+	min-height: 17px;
+	padding-top: 7px;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 5px;
+}
+
+#u6494
+{
+	z-index: 40;
+	width: 147px;
+	height: 35px;
+	margin-right: -10000px;
+}
+
+#u6495-4
+{
+	z-index: 41;
+	width: 137px;
+	min-height: 17px;
+	padding-top: 7px;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 6px;
+}
+
+#pamphletu1857
+{
+	z-index: 46;
+	width: 0.01px;
+	height: 27px;
+	padding-bottom: 950px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 341px;
+	left: 130px;
+}
+
+#u1871
+{
+	position: absolute;
+	width: 1320px;
+	background-color: transparent;
+	top: 61px;
+}
+
+#u1871popup
+{
+	z-index: 47;
+}
+
+#u1906
+{
+	z-index: 48;
+	width: 1320px;
+	height: 915px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#pamphletu2645
+{
+	z-index: 49;
+	width: 0.01px;
+	height: 674px;
+	padding-bottom: 1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 40px;
+}
+
+#u2647
+{
+	position: absolute;
+	width: 1519px;
+	background-color: #BABABA;
+	background-color: rgba(0,0,0,0.27);
+	padding-bottom: 44px;
+	top: 295px;
+	left: -305px;
+	-pie-background: rgba(0,0,0,0.27);
+}
+
+#u2647popup
+{
+	z-index: 50;
+}
+
+#u2660
+{
+	z-index: 51;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u2661
+{
+	z-index: 52;
+	width: 1300px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 113px;
+}
+
+#u2661_img
+{
+	padding-top: 2px;
+	padding-bottom: 3px;
+}
+
+#u2652
+{
+	z-index: 54;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u2653
+{
+	z-index: 55;
+	width: 1467px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2656
+{
+	z-index: 57;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u2658
+{
+	z-index: 58;
+	width: 1467px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2648
+{
+	z-index: 60;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u2650
+{
+	z-index: 61;
+	width: 1456px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 1px;
+}
+
+#u5184
+{
+	z-index: 63;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5217
+{
+	z-index: 64;
+	width: 1300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 113px;
+}
+
+#u5189
+{
+	z-index: 66;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5230
+{
+	z-index: 67;
+	width: 1300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 113px;
+}
+
+#u5191
+{
+	z-index: 69;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5246
+{
+	z-index: 70;
+	width: 1300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 113px;
+}
+
+#u5193
+{
+	z-index: 72;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5297
+{
+	z-index: 73;
+	width: 1300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 113px;
+}
+
+#u5195
+{
+	z-index: 75;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5301
+{
+	z-index: 76;
+	width: 1300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 113px;
+}
+
+#u5276
+{
+	z-index: 78;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5304
+{
+	z-index: 79;
+	width: 1300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 113px;
+}
+
+#u5278
+{
+	z-index: 81;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5307
+{
+	z-index: 82;
+	width: 1300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 113px;
+}
+
+#u5280
+{
+	z-index: 84;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5310
+{
+	z-index: 85;
+	width: 1300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 113px;
+}
+
+#u5359
+{
+	z-index: 87;
+	width: 1475px;
+	height: 745px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5364
+{
+	z-index: 88;
+	width: 1300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 113px;
+}
+
+#u2665
+{
+	z-index: 90;
+	width: 951px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2672
+{
+	position: absolute;
+	width: 205px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 2px;
+	background: transparent url("../images/rg03b_rui_grazina2_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6892-10
+{
+	z-index: 92;
+	width: 205px;
+	min-height: 139px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2672:hover #u6892-10
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 139px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u2672:hover #u6892-10 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u2670
+{
+	position: absolute;
+	width: 205px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 3px;
+	left: 256px;
+	background: transparent url("../images/rgb03_teste3212_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2670:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 205px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u6893-10
+{
+	z-index: 103;
+	width: 205px;
+	min-height: 139px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2670:hover #u6893-10
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 139px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u2670:active #u6893-10
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 139px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u2670:hover #u6893-10 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u2670:active #u6893-10 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u2668
+{
+	position: absolute;
+	width: 206px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	left: 498px;
+	background: transparent url("../images/rgb03_teste3350_para_web.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u6908-10
+{
+	z-index: 114;
+	width: 206px;
+	min-height: 141px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2668:hover #u6908-10
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 141px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u2668:hover #u6908-10 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u2666
+{
+	position: absolute;
+	width: 206px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 1px;
+	left: 745px;
+	background: transparent url("../images/lema_e_barros_plano_1%20060_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6909-13
+{
+	z-index: 125;
+	width: 206px;
+	min-height: 140px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2666:hover #u6909-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u2666:hover #u6909-13 p,#u2666:hover #u6909-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5182
+{
+	position: absolute;
+	width: 208px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 185px;
+	left: 1px;
+	background: transparent url("../images/lema_e_barros_plano_2_0400_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u5805
+{
+	z-index: 140;
+	height: 44px;
+	width: 196px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 94px;
+	left: 8px;
+}
+
+#u5182:hover #u5805
+{
+	background: url("../images/u5805-r.png") no-repeat 0px 0px;
+}
+
+#u5182:active #u5805
+{
+	background: url("../images/u5805-m.png") no-repeat 0px 0px;
+}
+
+.js #u5805.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u6875-13
+{
+	z-index: 144;
+	width: 208px;
+	min-height: 142px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5182:hover #u6875-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 142px;
+	width: 208px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5182:hover #u6875-13 p,#u5182:hover #u6875-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5188
+{
+	position: absolute;
+	width: 205px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 177px;
+	left: 256px;
+	background: transparent url("../images/lema_e_barros_plano_final%20370_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6876-13
+{
+	z-index: 158;
+	width: 205px;
+	min-height: 138px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5188:hover #u6876-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 138px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5188.PamphletThumbSelected #u6876-13
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 138px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u5188:hover #u6876-13 p,#u5188:hover #u6876-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5190
+{
+	position: absolute;
+	width: 205px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 177px;
+	left: 500px;
+	background: transparent url("../images/lema_e_barros_plano_5_camera_2_1015_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6877-13
+{
+	z-index: 172;
+	width: 205px;
+	min-height: 139px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5190:hover #u6877-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 139px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5190:hover #u6877-13 p,#u5190:hover #u6877-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5192
+{
+	position: absolute;
+	width: 206px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 176px;
+	left: 743px;
+	background: transparent url("../images/lema_e_barros_plano_6%20171_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6878-13
+{
+	z-index: 186;
+	width: 206px;
+	min-height: 140px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5192:hover #u6878-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u2666.PamphletThumbSelected #u6909-13,#u5192.PamphletThumbSelected #u6878-13
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u5192:hover #u6878-13 p,#u5192:hover #u6878-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5194
+{
+	position: absolute;
+	width: 204px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 351px;
+	left: 1px;
+	background: transparent url("../images/lema_e_barros_plano_7_0232_oara_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6883-13
+{
+	z-index: 200;
+	width: 204px;
+	min-height: 138px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5194:hover #u6883-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 138px;
+	width: 204px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5194:hover #u6883-13 p,#u5194:hover #u6883-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5277
+{
+	position: absolute;
+	width: 204px;
+	height: 138px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 351px;
+	left: 256px;
+	background: transparent url("../images/lema_e_barros_plano_10_0979_para_web-u5277-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u5279
+{
+	position: absolute;
+	width: 204px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 351px;
+	left: 500px;
+	background: transparent url("../images/lema_e_barros_plano_11_1054_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6888-13
+{
+	z-index: 215;
+	width: 204px;
+	min-height: 138px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5279:hover #u6888-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 138px;
+	width: 204px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5279:hover #u6888-13 p,#u5279:hover #u6888-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5281
+{
+	position: absolute;
+	width: 205px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 349px;
+	left: 745px;
+	background: transparent url("../images/lema_e_barros_plano_14_1066_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6886-13
+{
+	z-index: 229;
+	width: 205px;
+	min-height: 139px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5281:hover #u6886-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 139px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u2672.PamphletThumbSelected #u6892-10,#u2670.PamphletThumbSelected #u6893-10,#u5190.PamphletThumbSelected #u6877-13,#u5281.PamphletThumbSelected #u6886-13
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 139px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u5281:hover #u6886-13 p,#u5281:hover #u6886-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5363
+{
+	position: absolute;
+	width: 206px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 1px;
+	top: 536px;
+	left: 1px;
+	background: transparent url("../images/lema_e_barros_plano_escadas_verticais_1190.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6887-13
+{
+	z-index: 243;
+	width: 206px;
+	min-height: 138px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5363:hover #u6887-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 138px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5363.PamphletThumbSelected #u6887-13
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 138px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u5363:hover #u6887-13 p,#u5363:hover #u6887-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u2674
+{
+	position: absolute;
+	width: 30px;
+	height: 60px;
+	top: 685px;
+	left: -263px;
+	background: transparent url("../images/slideshowarrowbackward.png") no-repeat left top;
+}
+
+#u2664
+{
+	position: absolute;
+	width: 30px;
+	height: 60px;
+	top: 685px;
+	left: 1145px;
+	background: transparent url("../images/slideshowarrowforward.png") no-repeat left top;
+}
+
+#u2646
+{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	top: 338px;
+	left: 1080px;
+	background: transparent url("../images/slideshowclose.png") no-repeat left top;
+	background-size: contain;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u6885-13
+{
+	z-index: 259;
+	width: 204px;
+	min-height: 138px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 354px;
+	left: 296px;
+}
+
+#u6885-13:hover
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 138px;
+	width: 204px;
+	margin: 354px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u6889-13
+{
+	z-index: 272;
+	width: 205px;
+	min-height: 138px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 354px;
+	left: 540px;
+}
+
+#u6889-13:hover
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 138px;
+	width: 205px;
+	margin: 354px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u1872
+{
+	z-index: 285;
+	width: 1320px;
+	height: 915px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#pamphletu5687
+{
+	z-index: 286;
+	width: 0.01px;
+	height: 140px;
+	padding-bottom: 1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 40px;
+}
+
+#u5708
+{
+	z-index: 287;
+	width: 460px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5713
+{
+	position: absolute;
+	width: 205px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 1px;
+	background: transparent url("../images/lema_e_barros_plano_1%20060_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6841-13
+{
+	z-index: 289;
+	width: 205px;
+	min-height: 140px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5713:hover #u6841-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u6885-13:hover p,#u6885-13:hover span,#u6889-13:hover p,#u6889-13:hover span,#u5713:hover #u6841-13 p,#u5713:hover #u6841-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5715
+{
+	position: absolute;
+	width: 205px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	left: 255px;
+	background: transparent url("../images/lema_e_barros_plano_2_0400_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2670:active,#u5715:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 205px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u6844-13
+{
+	z-index: 303;
+	width: 205px;
+	min-height: 140px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5715:hover #u6844-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5715:hover #u6844-13 p,#u5715:hover #u6844-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5711
+{
+	position: absolute;
+	width: 204px;
+	height: 140px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	left: 510px;
+	background: transparent url("../images/lema_e_barros_plano_final%20370_para_web-u5711-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u5711:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 204px;
+	height: 140px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u5690
+{
+	position: absolute;
+	width: 1511px;
+	background-color: #BABABA;
+	background-color: rgba(0,0,0,0.27);
+	padding-bottom: 44px;
+	top: 294px;
+	left: -305px;
+	-pie-background: rgba(0,0,0,0.27);
+}
+
+#u5690popup
+{
+	z-index: 317;
+}
+
+#u5699
+{
+	z-index: 318;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5701
+{
+	z-index: 319;
+	width: 1448px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 11px;
+}
+
+#u5700-6
+{
+	z-index: 321;
+	width: 463px;
+	min-height: 50px;
+	background-color: transparent;
+	text-align: left;
+	font-family: ubuntu-condensed, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 679px;
+	left: 98px;
+}
+
+#u5700-2
+{
+	font-size: 15px;
+	line-height: 21px;
+	color: #5CA9DD;
+	font-style: normal;
+}
+
+#u5700-4
+{
+	font-size: 12px;
+	line-height: 14px;
+	color: #000000;
+}
+
+#u5695
+{
+	z-index: 327;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5727
+{
+	z-index: 328;
+	width: 1300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 113px;
+}
+
+#u5727_img
+{
+	margin-left: -19px;
+	margin-right: -47px;
+}
+
+#u5703
+{
+	z-index: 330;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5731
+{
+	z-index: 331;
+	width: 1300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 113px;
+}
+
+#u5707
+{
+	position: absolute;
+	width: 30px;
+	height: 60px;
+	top: 684px;
+	left: -263px;
+	background: transparent url("../images/slideshowarrowbackward.png") no-repeat left top;
+}
+
+#u5689
+{
+	position: absolute;
+	width: 30px;
+	height: 60px;
+	top: 684px;
+	left: 1145px;
+	background: transparent url("../images/slideshowarrowforward.png") no-repeat left top;
+}
+
+#u5688
+{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	top: 337px;
+	left: 1080px;
+	background: transparent url("../images/slideshowclose.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6860-13
+{
+	z-index: 336;
+	width: 205px;
+	min-height: 140px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 551px;
+}
+
+#u6860-13:hover
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 205px;
+	margin: 2px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u1889
+{
+	z-index: 349;
+	width: 1320px;
+	height: 915px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#pamphletu5736
+{
+	z-index: 350;
+	width: 0.01px;
+	height: 316px;
+	position: relative;
+	margin-right: -10000px;
+	left: 41px;
+}
+
+#u5757
+{
+	z-index: 351;
+	width: 970px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5762
+{
+	position: absolute;
+	width: 204px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 1px;
+	top: 2px;
+	background: transparent url("../images/lema_e_barros_plano_5_camera_2_1015_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6705-13
+{
+	z-index: 353;
+	width: 204px;
+	min-height: 138px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5762:hover #u6705-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 138px;
+	width: 204px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5194.PamphletThumbSelected #u6883-13,#u5279.PamphletThumbSelected #u6888-13,#u5762.PamphletThumbSelected #u6705-13
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 138px;
+	width: 204px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6860-13:hover p,#u6860-13:hover span,#u5762:hover #u6705-13 p,#u5762:hover #u6705-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5764
+{
+	position: absolute;
+	width: 205px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	left: 255px;
+	background: transparent url("../images/lema_e_barros_plano_6%20171_para_web.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u5764:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 205px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u6778-13
+{
+	z-index: 367;
+	width: 205px;
+	min-height: 140px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5764:hover #u6778-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5764:hover #u6778-13 p,#u5764:hover #u6778-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5760
+{
+	position: absolute;
+	width: 207px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	left: 510px;
+	background: transparent url("../images/lema_e_barros_plano_7_0232_oara_web.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u5760:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 207px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u6804-13
+{
+	z-index: 381;
+	width: 205px;
+	min-height: 140px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 2px;
+}
+
+#u5760:hover #u6804-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5760:hover #u6804-13 p,#u5760:hover #u6804-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5758
+{
+	position: absolute;
+	width: 206px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	left: 764px;
+	background: transparent url("../images/lema_e_barros_plano_10_0979_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6820-13
+{
+	z-index: 395;
+	width: 205px;
+	min-height: 140px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 1px;
+}
+
+#u5758:hover #u6820-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5758:hover #u6820-13 p,#u5758:hover #u6820-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5770
+{
+	position: absolute;
+	width: 205px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 176px;
+	background: transparent url("../images/lema_e_barros_plano_11_1054_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6840-13
+{
+	z-index: 409;
+	width: 205px;
+	min-height: 140px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5770:hover #u6840-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5770:hover #u6840-13 p,#u5770:hover #u6840-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5780
+{
+	position: absolute;
+	width: 205px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 176px;
+	left: 254px;
+	background: transparent url("../images/lema_e_barros_plano_14_1066_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6838-13
+{
+	z-index: 423;
+	width: 205px;
+	min-height: 140px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5780:hover #u6838-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5780:hover #u6838-13 p,#u5780:hover #u6838-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u5782
+{
+	position: absolute;
+	width: 207px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	top: 176px;
+	left: 510px;
+	background: transparent url("../images/lema_e_barros_plano_escadas_verticais_1190.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6839-13
+{
+	z-index: 437;
+	width: 205px;
+	min-height: 140px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 2px;
+}
+
+#u5782:hover #u6839-13
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5713.PamphletThumbSelected #u6841-13,#u5715.PamphletThumbSelected #u6844-13,#u5764.PamphletThumbSelected #u6778-13,#u5760.PamphletThumbSelected #u6804-13,#u5758.PamphletThumbSelected #u6820-13,#u5770.PamphletThumbSelected #u6840-13,#u5780.PamphletThumbSelected #u6838-13,#u5782.PamphletThumbSelected #u6839-13
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 140px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u5782:hover #u6839-13 p,#u5782:hover #u6839-13 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u6909-4,#u6875-4,#u6876-4,#u6877-4,#u6878-4,#u6883-4,#u6888-4,#u6886-4,#u6887-4,#u6885-4,#u6889-4,#u6841-4,#u6844-4,#u6860-4,#u6705-4,#u6778-4,#u6804-4,#u6820-4,#u6840-4,#u6838-4,#u6839-4
+{
+	visibility: hidden;/* 100% transparent text is hidden */
+}
+
+#u5739
+{
+	position: absolute;
+	width: 1511px;
+	background-color: #BABABA;
+	background-color: rgba(0,0,0,0.27);
+	padding-bottom: 44px;
+	top: 294px;
+	left: -306px;
+	-pie-background: rgba(0,0,0,0.27);
+}
+
+#u5739popup
+{
+	z-index: 450;
+}
+
+#u5748
+{
+	z-index: 451;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5750
+{
+	z-index: 452;
+	width: 1448px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 11px;
+}
+
+#u5744
+{
+	z-index: 454;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5786
+{
+	z-index: 455;
+	width: 1310px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 103px;
+}
+
+#u5752
+{
+	z-index: 457;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5790
+{
+	z-index: 458;
+	width: 1309px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 104px;
+}
+
+#u5790_clip
+{
+	overflow: hidden;
+	width: 1309px;
+	height: 711px;
+}
+
+#u5740
+{
+	z-index: 460;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5741
+{
+	z-index: 461;
+	width: 1456px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 1px;
+}
+
+#u2650_img,#u5741_img
+{
+	padding-left: 112px;
+	padding-right: 44px;
+}
+
+#u5772
+{
+	z-index: 463;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5795
+{
+	z-index: 464;
+	width: 1300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 113px;
+}
+
+#u5727_clip,#u5795_clip
+{
+	overflow: hidden;
+	width: 1300px;
+	height: 711px;
+}
+
+#u5795_img
+{
+	margin-right: -47px;
+}
+
+#u5781
+{
+	z-index: 466;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5799
+{
+	z-index: 467;
+	width: 1310px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 103px;
+}
+
+#u5783
+{
+	z-index: 469;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u5803
+{
+	z-index: 470;
+	width: 1310px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 103px;
+}
+
+#u5786_clip,#u5799_clip,#u5803_clip
+{
+	overflow: hidden;
+	width: 1310px;
+	height: 711px;
+}
+
+#u5786_img,#u5790_img,#u5799_img,#u5803_img
+{
+	margin-left: 10px;
+	margin-right: -47px;
+}
+
+#u5756
+{
+	position: absolute;
+	width: 30px;
+	height: 60px;
+	top: 684px;
+	left: -264px;
+	background: transparent url("../images/slideshowarrowbackward.png") no-repeat left top;
+}
+
+#u5738
+{
+	position: absolute;
+	width: 30px;
+	height: 60px;
+	top: 684px;
+	left: 1144px;
+	background: transparent url("../images/slideshowarrowforward.png") no-repeat left top;
+}
+
+#u5737
+{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	border-style: none;
+	border-color: transparent;
+	top: 337px;
+	left: 1079px;
+	background: transparent url("../images/slideshowclose.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4271
+{
+	z-index: 475;
+	width: 1320px;
+	height: 915px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#pamphletu4452
+{
+	z-index: 476;
+	width: 0.01px;
+	height: 142px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 73px;
+}
+
+#u4455
+{
+	z-index: 477;
+	width: 712px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4458
+{
+	position: absolute;
+	width: 208px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/rg03b_rui_grazina2_para_web.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6915-10
+{
+	z-index: 479;
+	width: 208px;
+	min-height: 142px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4458:hover #u6915-10
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 142px;
+	width: 208px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u5182.PamphletThumbSelected #u6875-13,#u4458.PamphletThumbSelected #u6915-10
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 142px;
+	width: 208px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4458:hover #u6915-10 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u4456
+{
+	position: absolute;
+	width: 206px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	left: 254px;
+	background: transparent url("../images/rgb03_teste3212_para_web.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u6914-10
+{
+	z-index: 490;
+	width: 206px;
+	min-height: 142px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4456:hover #u6914-10
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 142px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u4456.PamphletThumbSelected #u6914-10
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 142px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4456:hover #u6914-10 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u4462
+{
+	position: absolute;
+	width: 206px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 5px rgba(182,178,178,0.5);
+	border-style: none;
+	border-color: transparent;
+	left: 506px;
+	background: transparent url("../images/rgb03_teste3350_para_web.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u2668:hover,#u4456:hover,#u4462:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 206px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u6913-10
+{
+	z-index: 501;
+	width: 206px;
+	min-height: 141px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4462:hover #u6913-10
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 141px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u2668.PamphletThumbSelected #u6908-10,#u4462.PamphletThumbSelected #u6913-10
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 141px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4462:hover #u6913-10 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u4464
+{
+	position: absolute;
+	width: 1511px;
+	background-color: #BABABA;
+	background-color: rgba(0,0,0,0.27);
+	padding-bottom: 44px;
+	top: 288px;
+	left: -338px;
+	-pie-background: rgba(0,0,0,0.27);
+}
+
+#u4464popup
+{
+	z-index: 511;
+}
+
+#u4465
+{
+	z-index: 512;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u4466
+{
+	z-index: 513;
+	width: 1448px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 11px;
+}
+
+#u5701_img,#u5750_img,#u4466_img
+{
+	padding-left: 102px;
+	padding-right: 46px;
+}
+
+#u4469
+{
+	z-index: 515;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u4470
+{
+	z-index: 516;
+	width: 1467px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4473
+{
+	z-index: 518;
+	width: 1467px;
+	height: 737px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u4474
+{
+	z-index: 519;
+	width: 1467px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2653_img,#u2658_img,#u4470_img,#u4474_img
+{
+	padding-left: 113px;
+	padding-right: 54px;
+}
+
+#u4481
+{
+	position: absolute;
+	width: 30px;
+	height: 60px;
+	top: 679px;
+	left: -296px;
+	background: transparent url("../images/slideshowarrowbackward.png") no-repeat left top;
+}
+
+#u4453
+{
+	position: absolute;
+	width: 30px;
+	height: 60px;
+	top: 679px;
+	left: 1112px;
+	background: transparent url("../images/slideshowarrowforward.png") no-repeat left top;
+}
+
+#u4454
+{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	top: 332px;
+	left: 1047px;
+	background: transparent url("../images/slideshowclose.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6911-10
+{
+	z-index: 524;
+	width: 206px;
+	min-height: 141px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 387px;
+	left: 557px;
+}
+
+#u6911-10:hover
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.36000000000000004);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 141px;
+	width: 206px;
+	margin: 387px -10000px 0px 0px;
+	-pie-background: rgba(255,255,255,0.36000000000000004);
+}
+
+#u6911-10:hover p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u6892,#u6892-2,#u6892-3,#u6893,#u6893-2,#u6893-3,#u6908,#u6908-2,#u6908-3,#u6909,#u6909-2,#u6909-5,#u6875,#u6875-2,#u6875-5,#u6876,#u6876-2,#u6876-5,#u6877,#u6877-2,#u6877-5,#u6878,#u6878-2,#u6878-5,#u6883,#u6883-2,#u6883-5,#u6888,#u6888-2,#u6888-5,#u6886,#u6886-2,#u6886-5,#u6887,#u6887-2,#u6887-5,#u6885,#u6885-2,#u6885-5,#u6889,#u6889-2,#u6889-5,#u6841,#u6841-2,#u6841-5,#u6844,#u6844-2,#u6844-5,#u6860,#u6860-2,#u6860-5,#u6705,#u6705-2,#u6705-5,#u6778,#u6778-2,#u6778-5,#u6804,#u6804-2,#u6804-5,#u6820,#u6820-2,#u6820-5,#u6840,#u6840-2,#u6840-5,#u6838,#u6838-2,#u6838-5,#u6839,#u6839-2,#u6839-5,#u6915,#u6915-2,#u6915-3,#u6914,#u6914-2,#u6914-3,#u6913,#u6913-2,#u6913-3,#u6911,#u6911-2,#u6911-3
+{
+	text-align: left;
+	color: #000000;
+}
+
+#u6892-5,#u6892-6,#u6893-5,#u6893-6,#u6908-5,#u6908-6,#u6909-7,#u6909-9,#u6875-7,#u6875-9,#u6876-7,#u6876-9,#u6877-7,#u6877-9,#u6878-7,#u6878-9,#u6883-7,#u6883-9,#u6888-7,#u6888-9,#u6886-7,#u6886-9,#u6887-7,#u6887-9,#u6885-7,#u6885-9,#u6889-7,#u6889-9,#u6841-7,#u6841-9,#u6844-7,#u6844-9,#u6860-7,#u6860-9,#u6705-7,#u6705-9,#u6778-7,#u6778-9,#u6804-7,#u6804-9,#u6820-7,#u6820-9,#u6840-7,#u6840-9,#u6838-7,#u6838-9,#u6839-7,#u6839-9,#u6915-5,#u6915-6,#u6914-5,#u6914-6,#u6913-5,#u6913-6,#u6911-5,#u6911-6
+{
+	text-align: left;
+	visibility: hidden;/* 100% transparent text is hidden */
+}
+
+#u6892-7,#u6892-8,#u6893-7,#u6893-8,#u6908-7,#u6908-8,#u6909-10,#u6909-11,#u6875-10,#u6875-11,#u6876-10,#u6876-11,#u6877-10,#u6877-11,#u6878-10,#u6878-11,#u6883-10,#u6883-11,#u6888-10,#u6888-11,#u6886-10,#u6886-11,#u6887-10,#u6887-11,#u6885-10,#u6885-11,#u6889-10,#u6889-11,#u6841-10,#u6841-11,#u6844-10,#u6844-11,#u6860-10,#u6860-11,#u6705-10,#u6705-11,#u6778-10,#u6778-11,#u6804-10,#u6804-11,#u6820-10,#u6820-11,#u6840-10,#u6840-11,#u6838-10,#u6838-11,#u6839-10,#u6839-11,#u6915-7,#u6915-8,#u6914-7,#u6914-8,#u6913-7,#u6913-8,#u6911-7,#u6911-8
+{
+	text-align: center;
+	color: #000000;
+}
+
+#u1858
+{
+	z-index: 534;
+	width: 652px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 195px;
+}
+
+#u1859
+{
+	position: absolute;
+	width: 139px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 4px;
+	top: -5px;
+	left: -20px;
+}
+
+#u1859:hover
+{
+	border-color: #FFFFFF;
+	border-radius: 0px;
+	width: 139px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1859:active
+{
+	border-color: #FFFFFF;
+	border-radius: 0px;
+	width: 139px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1860
+{
+	z-index: 537;
+	height: 21px;
+	width: 100px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 19px;
+	background: url("../images/u1860.png") no-repeat 0px 0px;
+}
+
+#u1859:hover #u1860
+{
+	background: url("../images/u1860-r.png") no-repeat 0px 0px;
+}
+
+#u1859:active #u1860
+{
+	background: url("../images/u1860-m.png") no-repeat 0px 0px;
+}
+
+#u1859.PamphletThumbSelected #u1860
+{
+	background: url("../images/u1860-a.png") no-repeat 0px 0px;
+}
+
+#u1861
+{
+	position: absolute;
+	width: 139px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 4px;
+	top: -5px;
+	left: 166px;
+}
+
+#u1861:hover
+{
+	border-color: #FFFFFF;
+	border-radius: 0px;
+	width: 139px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1862
+{
+	z-index: 543;
+	height: 21px;
+	width: 102px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 18px;
+	background: url("../images/u1862.png") no-repeat 0px 0px;
+}
+
+#u1861:hover #u1862
+{
+	background: url("../images/u1862-r.png") no-repeat 0px 0px;
+}
+
+#u1861.PamphletThumbSelected #u1862
+{
+	background: url("../images/u1862-a.png") no-repeat 0px 0px;
+}
+
+#u1863
+{
+	position: absolute;
+	width: 139px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 4px;
+	top: -5px;
+	left: 351px;
+}
+
+#u1863:hover
+{
+	border-color: #FFFFFF;
+	border-radius: 0px;
+	width: 139px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1859.PamphletThumbSelected,#u1861.PamphletThumbSelected,#u1863.PamphletThumbSelected
+{
+	border-color: #FFFFFF;
+	border-radius: 0px 10px 0px 10px ;
+	width: 139px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1864
+{
+	z-index: 548;
+	height: 21px;
+	width: 113px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 12px;
+	background: url("../images/u1864.png") no-repeat 0px 0px;
+}
+
+#u1863:hover #u1864
+{
+	background: url("../images/u1864-r.png") no-repeat 0px 0px;
+}
+
+#u1863.PamphletThumbSelected #u1864
+{
+	background: url("../images/u1864-a.png") no-repeat 0px 0px;
+}
+
+#u4290
+{
+	position: absolute;
+	width: 135px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 4px;
+	top: -5px;
+	left: 527px;
+}
+
+#u4290:hover
+{
+	border-color: #FFFFFF;
+	border-radius: 0px;
+	width: 135px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4290.PamphletThumbSelected
+{
+	border-color: #FFFFFF;
+	border-radius: 0px 10px 0px 10px ;
+	width: 135px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4417
+{
+	z-index: 553;
+	height: 21px;
+	width: 113px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 11px;
+	background: url("../images/u4417.png") no-repeat 0px 0px;
+}
+
+#u4290:hover #u4417
+{
+	background: url("../images/u4417-r.png") no-repeat 0px 0px;
+}
+
+#u4290.PamphletThumbSelected #u4417
+{
+	background: url("../images/u4417-a.png") no-repeat 0px 0px;
+}
+
+#u6032
+{
+	z-index: 45;
+	width: 1300px;
+	height: 182px;
+	background-color: #000000;
+	top: -182px;
+	margin-bottom: -182px;
+	position: relative;
+}
+
+#u222
+{
+	z-index: 5;
+	width: 1300px;
+	padding-bottom: 24px;
+	margin-top: 2px;
+}
+
+#u221-4
+{
+	z-index: 6;
+	width: 265px;
+	min-height: 55px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 518px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1300px;
+	padding-top: 36px;
+	padding-bottom: 136px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

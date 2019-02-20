@@ -1,0 +1,248 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.nelsonwmota.com" resolutions="1x" timestamp="1550692751142">
+  <folder name="css">
+    <file name="site_global.css" crc="432279303"/>
+    <file name="master_a-mestre.css" crc="3765898409" ref="projectos:início:contactos:index:sobre"/>
+    <file name="projectos.css" crc="4163525568" ref="projectos"/>
+    <file name="in_cio.css" crc="511514496" ref="início"/>
+    <file name="contactos.css" crc="308561244" ref="contactos"/>
+    <file name="index.css" crc="4201298801" ref="index"/>
+    <file name="sobre.css" crc="4031142703" ref="sobre"/>
+  </folder>
+  <folder name="assets">
+    <file name="logo_2.ai" crc="352737978" seo="true" mt="1453048887000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>sobre:phone>portfólio:phone>contactos:tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos:início:projectos:sobre:index:contactos"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>sobre:phone>portfólio:phone>contactos:tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos:início:projectos:sobre:index:contactos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:tablet>index:início:projectos"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:phone>sobre:phone>portfólio:phone>contactos:tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos:início:projectos:sobre:index:contactos"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="phone>index:phone>sobre:phone>portfólio:phone>contactos:tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos:início:projectos:sobre:index:contactos"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:phone>sobre:phone>portfólio:phone>contactos:tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos:início:projectos:sobre:index:contactos"/>
+    <file name="touchswipe.js" crc="4218319045" ref="phone>index:phone>sobre:phone>portfólio:phone>contactos:tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos:início:projectos:sobre:index:contactos"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>sobre:phone>portfólio:phone>contactos:tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos:início:projectos:sobre:index:contactos"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>sobre:phone>portfólio:phone>contactos:tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos:início:projectos:sobre:index:contactos"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>contactos:tablet>contactos:contactos"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>contactos:tablet>contactos:contactos"/>
+    <file name="form_process.php" crc="401030677" ref="phone>contactos:tablet>contactos:contactos"/>
+    <file name="form-u10290.php" crc="3849653891" ref="phone>contactos"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos:sobre:index:contactos"/>
+    <file name="form-u11674.php" crc="4263535084" ref="tablet>contactos"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="projectos"/>
+    <file name="form-u6962.php" crc="217679594" ref="contactos"/>
+  </folder>
+  <folder name="images">
+    <file name="a-mestre-favicon.ico" crc="3958791994" ref="phone>index"/>
+    <file name="sunset-silhouette-blurred-background-backdrop1380x571.jpg" crc="488308250" seo="true" ref="phone>index"/>
+    <file name="logo_16_branco.png" crc="69402812" seo="true" ref="phone>index:phone>sobre:phone>portfólio:phone>contactos:tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos:início:projectos:sobre:index:contactos"/>
+    <file name="u7054-6.png" crc="3933779876" ref="phone>index:phone>sobre:phone>portfólio:phone>contactos"/>
+    <file name="facebook-icon-png-black_2-u7075-fr.png" crc="161356325" ref="phone>index"/>
+    <file name="facebook-icon-png-black-u7075-r-fr.png" crc="336826517" ref="phone>index"/>
+    <file name="facebook-icon-png-black_3-u7075-a-fr.png" crc="4256182460" ref="phone>index"/>
+    <file name="linkedin-circled-512-000000_32-u7076-fr.png" crc="4097691068" ref="phone>index"/>
+    <file name="linkedin-circled-512-000000_rem_cima-u7076-r-fr.png" crc="210425970" ref="phone>index"/>
+    <file name="menu_icon_04_white_3line-crop-u10386.png" crc="3854402108" ref="phone>index"/>
+    <file name="close_light.png" crc="126613487" seo="true" ref="phone>index:phone>sobre:phone>portfólio:phone>contactos:tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos"/>
+    <file name="lema_e_barros_plano_11_1054_can256x141.jpg" crc="3815354179" seo="true" ref="phone>index"/>
+    <file name="rgb03_teste3350_scan_line_2253x142.jpg" crc="62778495" seo="true" ref="phone>index"/>
+    <file name="lema_e_barros_plano_1 060_scan_lines_2255x141.jpg" crc="2345635" seo="true" ref="phone>index"/>
+    <file name="u10485-7.png" crc="365585837" ref="phone>index"/>
+    <file name="u7155-15.png" crc="3760634249" ref="phone>sobre"/>
+    <file name="img_20160125_030846-para_web_294x125.jpg" crc="4059000433" seo="true" ref="phone>sobre"/>
+    <file name="menu_icon_04_white_3line-crop-u10410.png" crc="3854402108" ref="phone>sobre"/>
+    <file name="rgb03_teste3212_para_web340x191.jpg" crc="4184295667" seo="true" ref="phone>portfólio"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>portfólio:tablet>portfólio:projectos"/>
+    <file name="rg03b_rui_grazina2_para_web340x191.jpg" crc="3886109284" seo="true" ref="phone>portfólio"/>
+    <file name="rgb03_teste3350_para_web340x191.jpg" crc="48610011" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_1 060_para_web340x192.jpg" crc="203936180" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_2_0400_para_web340x192.jpg" crc="244257617" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_final 370_para_web340x192.jpg" crc="4236806968" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_5_camera_2_1015_para_web340x192.jpg" crc="4099319203" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_6 171_para_web340x191.jpg" crc="4288584163" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_7_0232_oara_web340x192.jpg" crc="4104347645" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_10_0979_para_web340x192.jpg" crc="244467641" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_11_1054_para_web340x192.jpg" crc="222203395" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_14_1066_para_web340x192.jpg" crc="204957434" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_escadas_verticais_1190340x192.jpg" crc="171274112" seo="true" ref="phone>portfólio"/>
+    <file name="rgb03_teste3212_para_web70x40.jpg" crc="505125414" seo="true" ref="phone>portfólio"/>
+    <file name="rg03b_rui_grazina2_para_web66x38.jpg" crc="231741295" seo="true" ref="phone>portfólio"/>
+    <file name="rgb03_teste3350_para_web70x40.jpg" crc="4207423797" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_1 060_para_web70x40.jpg" crc="494080187" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_2_0400_para_web70x40.jpg" crc="519348028" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_final 370_para_web70x40.jpg" crc="4050452121" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_5_camera_2_1015_para_web70x40.jpg" crc="4225311422" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_6 171_para_web70x40.jpg" crc="63126693" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_7_0232_oara_web70x40.jpg" crc="4063913603" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_10_0979_para_web70x40.jpg" crc="4033099928" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_11_1054_para_web70x40.jpg" crc="180308547" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_14_1066_para_web70x40.jpg" crc="4087901314" seo="true" ref="phone>portfólio"/>
+    <file name="lema_e_barros_plano_escadas_verticais_119070x40.jpg" crc="133802374" seo="true" ref="phone>portfólio"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>portfólio:tablet>portfólio"/>
+    <file name="menu_icon_04_white_3line-crop-u10362.png" crc="3854402108" ref="phone>portfólio"/>
+    <file name="u10310-17.png" crc="220348496" ref="phone>contactos"/>
+    <file name="u10310-17-r.png" crc="178758080" ref="phone>contactos"/>
+    <file name="u10310-17-m.png" crc="178758080" ref="phone>contactos"/>
+    <file name="u10310-17-fs.png" crc="178758080" ref="phone>contactos"/>
+    <file name="mapa_portugal-madeira_b_e_w.png" crc="3973710436" seo="true" ref="phone>contactos:tablet>contactos:contactos"/>
+    <file name="email-icon-md_branco.png" crc="4229567673" seo="true" ref="phone>contactos:tablet>contactos:contactos"/>
+    <file name="mobile-phone-popular-model-samsung-galaxy-s4_318-51589_2.png" crc="291413903" seo="true" ref="phone>contactos:tablet>contactos:contactos"/>
+    <file name="menu_icon_04_white_3line-crop-u7252.png" crc="3854402108" ref="phone>contactos"/>
+    <file name="sunset-silhouette-blurred-background-backdrop1.jpg" crc="4158318316" seo="true" ref="tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos:início:projectos:sobre:index:contactos"/>
+    <file name="u10571-4.png" crc="3866081775" ref="tablet>index:tablet>sobre:tablet>portfólio:tablet>contactos"/>
+    <file name="linkedin-circled-512-000000_32.png" crc="83390997" ref="tablet>index:início"/>
+    <file name="linkedin-circled-512-000000_rem_cima.png" crc="3962838515" ref="tablet>index:início"/>
+    <file name="facebook-icon-png-black_2.png" crc="3927052060" ref="tablet>index:início"/>
+    <file name="facebook-icon-png-black.png" crc="218080673" ref="tablet>index:início"/>
+    <file name="facebook-icon-png-black_3.png" crc="227371892" ref="tablet>index:início"/>
+    <file name="lema_e_barros_plano_11_1054_can493x273.jpg" crc="4016869401" seo="true" ref="tablet>index"/>
+    <file name="rgb03_teste3350_scan_line_2487x273.jpg" crc="3894610011" seo="true" ref="tablet>index"/>
+    <file name="lema_e_barros_plano_1 060_scan_lines_2491x272.jpg" crc="1659456" seo="true" ref="tablet>index"/>
+    <file name="menu_icon_04_white_3line-crop-u11601.png" crc="3854402108" ref="tablet>index"/>
+    <file name="menu_icon_04_white_3line-crop-u11625.png" crc="3854402108" ref="tablet>sobre"/>
+    <file name="img_20160125_030846-para_web_2153x204.jpg" crc="4083483065" seo="true" ref="tablet>sobre"/>
+    <file name="rg03b_rui_grazina2_para_web565x318.jpg" crc="290597253" seo="true" ref="tablet>portfólio"/>
+    <file name="rgb03_teste3212_para_web565x318.jpg" crc="4198989038" seo="true" ref="tablet>portfólio"/>
+    <file name="rgb03_teste3350_para_web565x318.jpg" crc="482190494" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_1 060_para_web564x318.jpg" crc="329517474" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_2_0400_para_web564x318.jpg" crc="23090750" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_final 370_para_web564x318.jpg" crc="198454032" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_5_camera_2_1015_para_web564x318.jpg" crc="3885914213" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_6 171_para_web564x318.jpg" crc="3912931566" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_7_0232_oara_web564x318.jpg" crc="4029734638" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_10_0979_para_web564x318.jpg" crc="4197036961" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_11_1054_para_web564x318.jpg" crc="3998924910" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_14_1066_para_web564x318.jpg" crc="4111004041" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_escadas_verticais_1190564x318.jpg" crc="349350198" seo="true" ref="tablet>portfólio"/>
+    <file name="rg03b_rui_grazina2_para_web126x71.jpg" crc="4060102104" seo="true" ref="tablet>portfólio"/>
+    <file name="rgb03_teste3212_para_web132x74.jpg" crc="27103348" seo="true" ref="tablet>portfólio"/>
+    <file name="rgb03_teste3350_para_web132x74.jpg" crc="292127939" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_1 060_para_web132x74.jpg" crc="447925239" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_2_0400_para_web132x74.jpg" crc="120232962" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_final 370_para_web132x74.jpg" crc="4061171697" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_5_camera_2_1015_para_web132x74.jpg" crc="37845016" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_6 171_para_web132x74.jpg" crc="4224788736" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_7_0232_oara_web132x74.jpg" crc="399446510" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_10_0979_para_web132x74.jpg" crc="4228878581" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_11_1054_para_web132x74.jpg" crc="4218874221" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_14_1066_para_web132x74.jpg" crc="327373849" seo="true" ref="tablet>portfólio"/>
+    <file name="lema_e_barros_plano_escadas_verticais_1190132x74.jpg" crc="4090304360" seo="true" ref="tablet>portfólio"/>
+    <file name="menu_icon_04_white_3line-crop-u10993.png" crc="3854402108" ref="tablet>portfólio"/>
+    <file name="menu_icon_04_white_3line-crop-u11650.png" crc="3854402108" ref="tablet>contactos"/>
+    <file name="u11694-17.png" crc="491214373" ref="tablet>contactos"/>
+    <file name="u11694-17-r.png" crc="77408712" ref="tablet>contactos"/>
+    <file name="u11694-17-m.png" crc="77408712" ref="tablet>contactos"/>
+    <file name="u11694-17-fs.png" crc="77408712" ref="tablet>contactos"/>
+    <file name="botaão_teste_sobre_sobre-u1278-fr.png" crc="3823179769" ref="início"/>
+    <file name="botaão_teste_sobre_sobre-u1278-r-fr.png" crc="508820907" ref="início"/>
+    <file name="botaão_teste_sobre_sobre-u1278-a-fr.png" crc="508820907" ref="início"/>
+    <file name="botaão_teste_sobre_contactos_2-u1295-fr.png" crc="348759289" ref="início"/>
+    <file name="botaão_teste_sobre_contactos_2-u1295-r-fr.png" crc="35820510" ref="início"/>
+    <file name="botaão_teste_sobre_contactos_2-u1295-a-fr.png" crc="4122504715" ref="início"/>
+    <file name="botaão_teste_sobre_inicio2-u1329-fr.png" crc="352538616" ref="início"/>
+    <file name="botaão_teste_sobre_inicio2-u1329-r-fr.png" crc="464338027" ref="início"/>
+    <file name="botaão_teste_sobre_inicio2-u1329-a-fr.png" crc="464338027" ref="início"/>
+    <file name="u4497-4.png" crc="4256854918" ref="início:projectos:sobre:index:contactos"/>
+    <file name="botaão_teste_sobre_projectos_2-portfólio .png" crc="3789942062" ref="início"/>
+    <file name="botaão_teste_sobre_projectos_2-revolver copiar.png" crc="299081108" ref="início"/>
+    <file name="botaão_teste_sobre_projectos_2-activo.png" crc="297515414" ref="início"/>
+    <file name="barra_3.png" crc="4164403419" seo="true" ref="início:projectos:sobre:index:contactos"/>
+    <file name="lema_e_barros_plano_11_1054_can.jpg" crc="466335197" seo="true" ref="início:index"/>
+    <file name="rgb03_teste3350_scan_line_2.jpg" crc="382607288" seo="true" ref="início:index"/>
+    <file name="lema_e_barros_plano_1 060_scan_lines_2.jpg" crc="3794915528" seo="true" ref="início:index"/>
+    <file name="u6022-7.png" crc="3972088947" ref="início"/>
+    <file name="u6025-4.png" crc="218737820" ref="início"/>
+    <file name="rg03b_rui_grazina2_para_web1300x707.jpg" crc="4007972228" seo="true" ref="projectos"/>
+    <file name="rgb03_teste3212_para_web1300x738.jpg" crc="3780014070" seo="true" ref="projectos"/>
+    <file name="rgb03_teste3350_para_web1300x738.jpg" crc="3857189375" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_1 060_para_web1300x724.jpg" crc="4061106524" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_2_0400_para_web1300x723.jpg" crc="507658617" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_final 370_para_web1300x723.jpg" crc="4152731436" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_5_camera_2_1015_para_web1300x724.jpg" crc="4226163857" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_6 171_para_web1300x723.jpg" crc="4088299990" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_7_0232_oara_web1300x724.jpg" crc="113620139" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_10_0979_para_web1300x724.jpg" crc="3863475009" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_11_1054_para_web1300x724.jpg" crc="3942690707" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_14_1066_para_web1300x724.jpg" crc="499152161" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_escadas_verticais_11901300x723.jpg" crc="3769327867" seo="true" ref="projectos"/>
+    <file name="rg03b_rui_grazina2_para_web.jpg" crc="4291778472" ref="projectos"/>
+    <file name="rgb03_teste3212_para_web.jpg" crc="179438602" ref="projectos"/>
+    <file name="rgb03_teste3350_para_web.jpg" crc="4201717438" ref="projectos"/>
+    <file name="lema_e_barros_plano_1 060_para_web.jpg" crc="4191267708" ref="projectos"/>
+    <file name="lema_e_barros_plano_2_0400_para_web.jpg" crc="42737626" ref="projectos"/>
+    <file name="u5805-r.png" crc="3921272791" ref="projectos"/>
+    <file name="u5805-m.png" crc="3921272791" ref="projectos"/>
+    <file name="lema_e_barros_plano_final 370_para_web.jpg" crc="338338953" ref="projectos"/>
+    <file name="lema_e_barros_plano_5_camera_2_1015_para_web.jpg" crc="4040798054" ref="projectos"/>
+    <file name="lema_e_barros_plano_6 171_para_web.jpg" crc="4130868610" ref="projectos"/>
+    <file name="lema_e_barros_plano_7_0232_oara_web.jpg" crc="4096385349" ref="projectos"/>
+    <file name="lema_e_barros_plano_10_0979_para_web-u5277-fr.jpg" crc="3962979739" ref="projectos"/>
+    <file name="lema_e_barros_plano_11_1054_para_web.jpg" crc="123974009" ref="projectos"/>
+    <file name="lema_e_barros_plano_14_1066_para_web.jpg" crc="4074817597" ref="projectos"/>
+    <file name="lema_e_barros_plano_escadas_verticais_1190.jpg" crc="4136008575" ref="projectos"/>
+    <file name="slideshowarrowbackward.png" crc="4002674134" ref="projectos"/>
+    <file name="slideshowarrowforward.png" crc="398164625" ref="projectos"/>
+    <file name="slideshowclose.png" crc="443029654" ref="projectos"/>
+    <file name="lema_e_barros_plano_final 370_para_web-u5711-fr.jpg" crc="4217667879" ref="projectos"/>
+    <file name="lema_e_barros_plano_1 060_para_web1300x712.jpg" crc="4061106524" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_2_0400_para_web1366x712.jpg" crc="4241652198" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_final 370_para_web1300x712.jpg" crc="4152731436" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_10_0979_para_web.jpg" crc="3891842506" ref="projectos"/>
+    <file name="lema_e_barros_plano_5_camera_2_1015_para_web1300x712.jpg" crc="4226163857" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_6 171_para_web1348x711.jpg" crc="4027075457" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_7_0232_oara_web1347x712.jpg" crc="491564062" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_11_1054_para_web1348x712.jpg" crc="265148527" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_14_1066_para_web1348x712.jpg" crc="493642702" seo="true" ref="projectos"/>
+    <file name="lema_e_barros_plano_escadas_verticais_11901348x712.jpg" crc="197916840" seo="true" ref="projectos"/>
+    <file name="rg03b_rui_grazina2_para_web1300x712.jpg" crc="4007972228" seo="true" ref="projectos"/>
+    <file name="u1860.png" crc="3875429527" ref="projectos"/>
+    <file name="u1860-r.png" crc="178693700" ref="projectos"/>
+    <file name="u1860-m.png" crc="178693700" ref="projectos"/>
+    <file name="u1860-a.png" crc="178693700" ref="projectos"/>
+    <file name="u1862.png" crc="36105189" ref="projectos"/>
+    <file name="u1862-r.png" crc="145980988" ref="projectos"/>
+    <file name="u1862-a.png" crc="145980988" ref="projectos"/>
+    <file name="u1864.png" crc="4182772025" ref="projectos"/>
+    <file name="u1864-r.png" crc="3932257398" ref="projectos"/>
+    <file name="u1864-a.png" crc="3932257398" ref="projectos"/>
+    <file name="u4417.png" crc="417995215" ref="projectos"/>
+    <file name="u4417-r.png" crc="3957465406" ref="projectos"/>
+    <file name="u4417-a.png" crc="3957465406" ref="projectos"/>
+    <file name="img_20160125_030846-para_web_2.jpg" crc="367376407" seo="true" ref="sobre"/>
+    <file name="u6027-8.png" crc="4196449198" ref="index"/>
+    <file name="u6028-4.png" crc="218737820" ref="index"/>
+    <file name="u6975-17.png" crc="491214373" ref="contactos"/>
+    <file name="u6975-17-r.png" crc="77408712" ref="contactos"/>
+    <file name="u6975-17-m.png" crc="77408712" ref="contactos"/>
+    <file name="u6975-17-fs.png" crc="77408712" ref="contactos"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-mestre.css" crc="46065191" ref="tablet>portfólio:tablet>index:tablet>sobre:tablet>contactos"/>
+      <file name="portf_lio.css" crc="388468762" ref="tablet>portfólio"/>
+      <file name="index.css" crc="3773420060" ref="tablet>index"/>
+      <file name="sobre.css" crc="4046930392" ref="tablet>sobre"/>
+      <file name="contactos.css" crc="176927516" ref="tablet>contactos"/>
+    </folder>
+    <file name="index.html" crc="4282293137" seo="true" mt="1454359974803" redirect="true"/>
+    <file name="sobre.html" crc="194076246" seo="true" mt="1454360123151" redirect="true"/>
+    <file name="portfólio.html" crc="4269449946" seo="true" mt="1454359974803" redirect="true"/>
+    <file name="contactos.html" crc="3919869301" seo="true" mt="1454359974803" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-mestre.css" crc="64466260" ref="phone>portfólio:phone>contactos:phone>sobre:phone>index"/>
+      <file name="portf_lio.css" crc="4146733986" ref="phone>portfólio"/>
+      <file name="contactos.css" crc="3913059219" ref="phone>contactos"/>
+      <file name="sobre.css" crc="4034891784" ref="phone>sobre"/>
+      <file name="index.css" crc="3760653987" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="176810026" seo="true" mt="1454415966044" redirect="true"/>
+    <file name="sobre.html" crc="171862334" seo="true" mt="1550692719867" redirect="true"/>
+    <file name="portfólio.html" crc="169563896" seo="true" mt="1454360157325" redirect="true"/>
+    <file name="contactos.html" crc="3865834780" seo="true" mt="1454360157325" redirect="true"/>
+  </folder>
+  <file name="início.html" crc="421765855" seo="true" mt="1454359833979" redirect="true"/>
+  <file name="projectos.html" crc="300516277" seo="true" mt="1550692718864" redirect="true"/>
+  <file name="sobre.html" crc="231376000" seo="true" mt="1454359454195" redirect="true"/>
+  <file name="index.html" crc="4002790913" seo="true" mt="1454359454195" redirect="true"/>
+  <file name="contactos.html" crc="4090111646" seo="true" mt="1454359454195" redirect="true"/>
+</manifest>

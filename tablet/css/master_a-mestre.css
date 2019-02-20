@@ -1,0 +1,121 @@
+#u10562,#u10566
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10571-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#pamphletu10581,#u10591
+{
+	position: relative;
+}
+
+#u10592
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u10593
+{
+	position: relative;
+	background: transparent url("../../images/linkedin-circled-512-000000_32.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u10592:hover #u10593
+{
+	background: transparent url("../../images/linkedin-circled-512-000000_rem_cima.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u10592.PamphletThumbSelected #u10593
+{
+	background: transparent url("../../images/linkedin-circled-512-000000_rem_cima.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u10594
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u10595
+{
+	position: relative;
+	background: transparent url("../../images/facebook-icon-png-black_2.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u10594:hover #u10595
+{
+	background: transparent url("../../images/facebook-icon-png-black.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u10594.PamphletThumbSelected #u10595
+{
+	background: transparent url("../../images/facebook-icon-png-black_3.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u10586
+{
+	position: absolute;
+}
+
+#u10587
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+}
+
+.Tooltip-Rollover
+{
+	-pie-box-shadow: 3px 3px 8px #BFBFBF;
+	box-shadow: 3px 3px 8px rgba(0,0,0,0.25);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DFDFDF;
+	background-color: #FFFFFF;
+}
+
+#u10589
+{
+	border-width: 1px;
+	border-style: solid;
+	background-color: transparent;
+	position: relative;
+}
+
+#u10588-4,#u10590-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u10565-4
+{
+	background-color: transparent;
+	font-size: 12px;
+	line-height: 14px;
+	color: #FFFFFF;
+	position: relative;
+}
+

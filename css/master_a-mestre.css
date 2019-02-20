@@ -1,0 +1,225 @@
+#u1080
+{
+	background-color: #FFF7F2;
+	position: relative;
+}
+
+#u1278
+{
+	position: relative;
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_sobre-u1278-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1278:hover
+{
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_sobre-u1278-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1278.MuseLinkActive
+{
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_sobre-u1278-a-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1295
+{
+	position: relative;
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_contactos_2-u1295-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1295:hover
+{
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_contactos_2-u1295-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1295.MuseLinkActive
+{
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_contactos_2-u1295-a-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1329
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_inicio2-u1329-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1329:hover
+{
+	border-radius: 0px;
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_inicio2-u1329-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1329:active
+{
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_inicio2-u1329-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1329.MuseLinkActive
+{
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_inicio2-u1329-a-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4497-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u6055
+{
+	position: relative;
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_projectos_2-portf%c3%b3lio%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6055:hover
+{
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_projectos_2-revolver%20copiar.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6055.MuseLinkActive
+{
+	background: transparent url("../images/bota%c3%a3o_teste_sobre_projectos_2-activo.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1082,#u1088,#u6289,#u6310,#u6313,#u6316
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1082_clip,#u6289_clip,#u6310_clip,#u6313_clip,#u6316_clip
+{
+	overflow: hidden;
+}
+
+#pamphletu6479,#u6484
+{
+	position: relative;
+}
+
+#u6485
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u6486
+{
+	position: relative;
+	background: transparent url("../images/linkedin-circled-512-000000_32.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6485:hover #u6486
+{
+	background: transparent url("../images/linkedin-circled-512-000000_rem_cima.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6485.PamphletThumbSelected #u6486
+{
+	background: transparent url("../images/linkedin-circled-512-000000_rem_cima.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6489
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u6490
+{
+	position: relative;
+	background: transparent url("../images/facebook-icon-png-black_2.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6489:hover #u6490
+{
+	background: transparent url("../images/facebook-icon-png-black.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6489.PamphletThumbSelected #u6490
+{
+	background: transparent url("../images/facebook-icon-png-black_3.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6493
+{
+	position: absolute;
+}
+
+#u6496
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+}
+
+.Tooltip-Rollover
+{
+	-pie-box-shadow: 3px 3px 8px #BFBFBF;
+	box-shadow: 3px 3px 8px rgba(0,0,0,0.25);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DFDFDF;
+	background-color: #FFFFFF;
+}
+
+#u6494
+{
+	border-width: 1px;
+	border-style: solid;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6497-4,#u6495-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u222
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u221-4
+{
+	background-color: transparent;
+	font-size: 12px;
+	line-height: 14px;
+	color: #FFFFFF;
+	position: relative;
+}
+

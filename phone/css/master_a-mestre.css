@@ -1,0 +1,60 @@
+#u7045,#u7052
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u7054-6
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u7075
+{
+	position: relative;
+	background: transparent url("../../images/facebook-icon-png-black_2-u7075-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7075:hover
+{
+	background: transparent url("../../images/facebook-icon-png-black-u7075-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7075.MuseLinkActive
+{
+	background: transparent url("../../images/facebook-icon-png-black_3-u7075-a-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7076
+{
+	position: relative;
+	background: transparent url("../../images/linkedin-circled-512-000000_32-u7076-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7076:hover
+{
+	background: transparent url("../../images/linkedin-circled-512-000000_rem_cima-u7076-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7076.MuseLinkActive
+{
+	background: transparent url("../../images/linkedin-circled-512-000000_rem_cima-u7076-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7078-4
+{
+	background-color: transparent;
+	font-size: 9px;
+	line-height: 11px;
+	color: #FFFFFF;
+	position: relative;
+}
+
