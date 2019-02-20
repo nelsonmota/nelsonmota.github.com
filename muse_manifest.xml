@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.nelsonwmota.com" resolutions="1x" timestamp="1550692751142">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.nelsonwmota.com" resolutions="1x" timestamp="1550696467929">
   <folder name="css">
-    <file name="site_global.css" crc="432279303"/>
+    <file name="site_global.css" crc="4109101754"/>
     <file name="master_a-mestre.css" crc="3765898409" ref="projectos:início:contactos:index:sobre"/>
     <file name="projectos.css" crc="4163525568" ref="projectos"/>
     <file name="in_cio.css" crc="511514496" ref="início"/>
@@ -45,8 +45,8 @@
     <file name="lema_e_barros_plano_11_1054_can256x141.jpg" crc="3815354179" seo="true" ref="phone>index"/>
     <file name="rgb03_teste3350_scan_line_2253x142.jpg" crc="62778495" seo="true" ref="phone>index"/>
     <file name="lema_e_barros_plano_1 060_scan_lines_2255x141.jpg" crc="2345635" seo="true" ref="phone>index"/>
-    <file name="u10485-7.png" crc="365585837" ref="phone>index"/>
-    <file name="u7155-15.png" crc="3760634249" ref="phone>sobre"/>
+    <file name="u10485-7.png" crc="384849620" ref="phone>index"/>
+    <file name="u7155-15.png" crc="411763384" ref="phone>sobre"/>
     <file name="img_20160125_030846-para_web_294x125.jpg" crc="4059000433" seo="true" ref="phone>sobre"/>
     <file name="menu_icon_04_white_3line-crop-u10410.png" crc="3854402108" ref="phone>sobre"/>
     <file name="rgb03_teste3212_para_web340x191.jpg" crc="4184295667" seo="true" ref="phone>portfólio"/>
@@ -236,12 +236,12 @@
       <file name="index.css" crc="3760653987" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="176810026" seo="true" mt="1454415966044" redirect="true"/>
-    <file name="sobre.html" crc="171862334" seo="true" mt="1550692719867" redirect="true"/>
+    <file name="sobre.html" crc="4158910338" seo="true" mt="1550692728398" redirect="true"/>
     <file name="portfólio.html" crc="169563896" seo="true" mt="1454360157325" redirect="true"/>
     <file name="contactos.html" crc="3865834780" seo="true" mt="1454360157325" redirect="true"/>
   </folder>
   <file name="início.html" crc="421765855" seo="true" mt="1454359833979" redirect="true"/>
-  <file name="projectos.html" crc="300516277" seo="true" mt="1550692718864" redirect="true"/>
+  <file name="projectos.html" crc="300516277" seo="true" mt="1550696441953" redirect="true"/>
   <file name="sobre.html" crc="231376000" seo="true" mt="1454359454195" redirect="true"/>
   <file name="index.html" crc="4002790913" seo="true" mt="1454359454195" redirect="true"/>
   <file name="contactos.html" crc="4090111646" seo="true" mt="1454359454195" redirect="true"/>
